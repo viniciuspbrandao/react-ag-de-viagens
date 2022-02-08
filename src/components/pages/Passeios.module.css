@@ -1,0 +1,50 @@
+.passeios_container {
+  /* background-color: #faebd7; */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  padding: 4em;
+}
+
+.passeios_container h1 {
+  /* border-color: #428bbb;
+  border: 3px; */
+  padding: 0.2em;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  background-color: #428bbb;
+  width: 80%;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.passeios_container h2 {
+  font-size: 1.7em;
+  margin-top: 0.8em;
+  margin-bottom: 0.1em;
+}
+
+.passeios_container p {
+  width: 90%;
+  padding: 0.5em;
+  justify-content: center;
+}
+
+.passeios_container div {
+  width: 100%;
+  display: flex;
+  padding: 0.5rem;
+  background-color: #428bbb;
+  border-radius: 10px;
+}
+
+.passeios_container table {
+  border-radius: 10px;
+  width: 100%;
+  background-color: bisque;
+  text-align: center;
+  padding: 8px;
+}
